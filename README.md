@@ -1,5 +1,5 @@
 # readingcsv-1
-sample file : https://www.baeldung.com/spring-boot-h2-database
+sample file : https://github.com/san123-cell/readingcsv-1/tree/main/src/main/resources/test_fileuploadcsv.csv
 
 UI url : http://localhost:8080/h2-console
 
